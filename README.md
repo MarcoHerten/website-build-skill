@@ -9,14 +9,9 @@ Kopiere den Link zu dieser Seite und gib ihn deinem Agenten. Du entscheidest, ob
 Nur für das aktuelle Projekt:
 
 ```
-Installiere den Skill von https://github.com/Julian-Ivanov/website-bauen in diesem Projekt.
+Installiere den Skill von [https://github.com/Julian-Ivanov/website-bauen](https://github.com/MarcoHerten/website-build-skill/) in diesem Projekt.
 ```
 
-Für alle Projekte:
-
-```
-Installiere den Skill von https://github.com/Julian-Ivanov/website-bauen global, damit er in jedem Projekt verfügbar ist.
-```
 
 Der Agent legt den Skill in seinen Skill-Ordner. Falls er danach nicht gleich auftaucht, starte den Agenten einmal neu.
 
@@ -34,7 +29,7 @@ In anderen Agenten schreibst du einfach: „Starte den Skill website-bauen.“
 
 - einen KI-Agenten wie Claude Code oder Codex
 - impeccable, ein kostenloses Design-Plugin. Der Skill richtet es am Anfang mit dir ein.
-- Für die Recherche ein Konto bei DataForSEO, für den Livegang ein Webhosting. Beides richtet der Skill erst in der Phase ein, in der es gebraucht wird. Über [meinen Link](https://l.dataforseo.com/4yfnJzk) bekommst du bei DataForSEO 5 Dollar Startguthaben statt einem (Affiliate-Link, für dich ohne Mehrkosten).
+- Für die Recherche ein Konto bei DataForSEO, für den Livegang ein Webhosting. Beides richtet der Skill erst in der Phase ein, in der es gebraucht wird. 
 
 ## Weitermachen und aktualisieren
 
