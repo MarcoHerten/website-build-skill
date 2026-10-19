@@ -9,7 +9,7 @@ Kopiere den Link zu dieser Seite und gib ihn deinem Agenten. Du entscheidest, ob
 Nur für das aktuelle Projekt:
 
 ```
-Installiere den Skill von [https://github.com/Julian-Ivanov/website-bauen](https://github.com/MarcoHerten/website-build-skill/) in diesem Projekt.
+Installiere den Skill von [[https://github.com/Julian-Ivanov/website-bauen](https://github.com/MarcoHerten/website-build-skill)] in diesem Projekt.
 ```
 
 
